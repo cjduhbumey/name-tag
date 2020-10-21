@@ -2,12 +2,15 @@
     "name": "Name Tag",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Blank_Arcade_Blocks": "github:cse10-period-6-20-21/2-2-activity-introduction-to-github-cjduhbumey#master"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
